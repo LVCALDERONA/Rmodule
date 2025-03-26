@@ -1,6 +1,7 @@
 #This is a comment
 #Basics:This is a header####
 #Logical operators: what I will have as a result is a TRUE or FALSE to my operator.
+1+1
 3>4
 C<-3<4
 3<=4
